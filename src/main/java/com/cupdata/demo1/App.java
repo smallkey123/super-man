@@ -14,7 +14,7 @@ public class App {
 
 		// 第二次提交
 		// 创建dev分支后的第一次提交
-		// 创建dev1分支后的第一次提交
-		// dev分支的第二次提交
+		// 创建release分支后的第一次提交
+		// 在master分支上merge分支dev、release分支发生冲突，两者变更均保留
 	}
 }
