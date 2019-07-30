@@ -13,5 +13,9 @@ public class App {
 		System.out.println("Hello World5");
 
 		// 第二次提交
+
+		// 创建dev分支后的第一次提交
+		// 创建release分支后的第一次提交
+		// 在master分支上merge分支dev、release分支发生冲突，两者变更均保留
 	}
 }
