@@ -30,5 +30,9 @@ public class AppTest extends TestCase {
 	public void testApp() {
 		assertTrue(true);
 	}
+
 	// dev1分支AppTest的第一次提交
+	// dev分支中AppTest的第一次提交
+	// dev分支中AppTest的第二次提交
+
 }
